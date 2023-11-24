@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+.mi-caja {
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    cursor: pointer;
+
+}
+.mi-caja:hover{
+    background-color: pink;
+    border: 4px solid purple;
+
+}

@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mi-caja {
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    border: 1px solid #000;
+}

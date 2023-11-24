@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.caja {
+    padding: 20px; 
+    width: 300px; 
+    height: 150px; 
+    border-width: 10px; 
+    border-image: linear-gradient(to right, #00ff40, #00ddff); 
+    border-image-slice: 1; 
+    border-style: solid; 
+    border-radius: 15px; 
+    color: aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
